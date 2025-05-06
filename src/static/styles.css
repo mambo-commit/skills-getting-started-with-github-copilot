@@ -75,20 +75,20 @@ section h3 {
 }
 
 .activity-card ul {
-  margin-top: 10px;
-  padding-left: 20px;
+  margin-top: 15px; /* Increased spacing from other elements */
+  padding: 10px 15px; /* Adjusted padding for better alignment */
   list-style-type: disc;
-  color: #333; /* Updated color for better readability */
-  background-color: #f1f1f1; /* Added background for better visibility */
-  border: 1px solid #ddd; /* Added border for separation */
-  border-radius: 4px; /* Rounded corners */
-  padding: 10px; /* Added padding for spacing */
+  color: #444; /* Slightly darker color for better contrast */
+  background-color: #fafafa; /* Softer background color */
+  border: 1px solid #ccc; /* Subtle border for separation */
+  border-radius: 6px; /* Slightly more rounded corners */
 }
 
 .activity-card ul li {
-  margin-bottom: 5px;
-  font-size: 14px;
-  line-height: 1.4; /* Improved line spacing */
+  margin-bottom: 8px; /* Increased spacing between items */
+  font-size: 15px; /* Slightly larger font size for readability */
+  line-height: 1.5; /* Improved line spacing */
+  color: #555; /* Consistent text color */
 }
 
 .form-group {
