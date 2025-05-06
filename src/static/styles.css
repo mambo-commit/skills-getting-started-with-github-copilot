@@ -84,7 +84,7 @@ section h3 {
   border-radius: 6px; /* Slightly more rounded corners */
 }
 
-.activity-card ul li {
+.activity-card ul.participant li { /* Updated class name to participant */
   margin-bottom: 8px; /* Increased spacing between items */
   font-size: 15px; /* Slightly larger font size for readability */
   line-height: 1.5; /* Improved line spacing */
